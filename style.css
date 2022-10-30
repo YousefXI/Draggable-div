@@ -107,8 +107,13 @@ body {
    color: var(--primary);
 }
 
+.content .title {
+   font-size: 26px;
+   font-weight: 500;
+   margin: 15px 0;
+}
+
 .content p {
    font-size: 14px;
    text-align: center;
-   margin: 15px 0;
 }
